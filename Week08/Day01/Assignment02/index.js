@@ -20,4 +20,4 @@ function lifeInWeeks(age) {
     
 /*************Don't change the code below**********/
 }
-lifeInWeeks(45);
+lifeInWeeks(40);
