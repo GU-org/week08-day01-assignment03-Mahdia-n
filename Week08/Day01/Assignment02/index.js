@@ -11,8 +11,6 @@ function lifeInWeeks(age) {
     /* we can count days and months as well*/
     let daysRemaining = yearsRemaining *365;
     let monthsRemaining = yearsRemaining * 12;
-
-
     console.log("Your remained life in week is " +weeksRemaining);
     console.log("Your remained life in day, week, and month is " +daysRemaining +" days " +weeksRemaining +" weeks " +monthsRemaining +" months.");
     
